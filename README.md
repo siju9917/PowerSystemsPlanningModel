@@ -12,5 +12,6 @@ configuration of storage emerged as the best implementation strategy. This proje
 a basis for many potential, influential future projects on power system topology that would
 be impactful in a world with growing renewable penetrations and storage dependence.
 
+## Full Report:
 
 [Topological_Impacts_of_Renewables_and_Storage_on_Operational_Costs_and_Phase_Stability_of_a_Power_System.pdf](https://github.com/siju9917/PowerSystemsPlanningModel/files/7982799/Topological_Impacts_of_Renewables_and_Storage_on_Operational_Costs_and_Phase_Stability_of_a_Power_System.pdf)
